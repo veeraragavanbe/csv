@@ -1,0 +1,15 @@
+#lsstysheet{
+    border-top-width: 0px;
+    border-color: #7a9e33;
+    border-width: thick;
+    text-align: center;
+    color: currentColor;
+}
+.cldes
+{
+    overflow: visible; 
+    font-style: italic;
+    background-color: #2bcebe;
+    border-block-end-style: inherit; 
+    border-color: currentColor;
+}
